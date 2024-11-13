@@ -1,0 +1,11 @@
+# Ignora arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignora arquivos de ambiente
+.env
+.env.local
+/venv
+
+.idea
+__pycache__
